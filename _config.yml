@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Scientist, teacher, immigrant 🇳🇬🇨🇦, advocate, soccer player. Acting Assistant Professor at the University of Washington working on diagnostics for global health. He/him"
   location         : "Seattle, WA, USA"
-  employer         :
+  employer         : "University of Washington, Seattle"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VzH-T3AAAAAJ&hl=en"
   email            : "ayo.olan@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ayokunle_Olanrewaju"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "ayocanada"
+  lastfm           : #"ayocanada"
   linkedin         : "ayokunle"
   orcid            : "https://orcid.org/0000-0003-4776-1774"
   pinterest        :

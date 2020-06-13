@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can [download a PDF of my CV here](CV download)
+
 Education & Academic Training
 ======
 * Postdoc, Mechanical Engineering, University of Washington

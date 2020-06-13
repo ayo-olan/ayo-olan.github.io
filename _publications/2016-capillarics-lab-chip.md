@@ -3,7 +3,7 @@ title: "Autonomous Microfluidic Capillaric Circuits Replicated from 3D-Printed M
 collection: publications
 permalink: /publication/2016-capillarics-lab-chip
 excerpt: 'This paper is about 3D-printing of self-powered and self-regulated microfluidic chips for automating liquid handling operations in a user-friendly and minimally-instrumented format..'
-date: 2016
+date: 2016-08-11
 venue: 'Lab on a Chip'
 paperurl: 'http://ayo-olan.github.io/files/Olanrewaju%20et%20al.%20-%202016%20-%20Autonomous%20microfluidic%20capillaric%20circuits%20replic.pdf'
 citation: 'Olanrewaju et al (2016). &quot;Autonomous Microfluidic Capillaric Circuits Replicated from 3D-Printed Molds.&quot; <i>Lab on a Chip</i>. 16 (19), 3804 – 3814.'

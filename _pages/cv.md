@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering (Biomedical Option), University of Alberta, Edmonton, Canada 2008
+* M.S. in Biomedical Engineering, University of Alberta, 2011
+* Ph.D in Biological and Biomedical Engineering, McGill University, 2017
 
 Work experience
 ======
